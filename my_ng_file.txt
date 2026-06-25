@@ -1,5 +1,7 @@
-my first file exo 1
+my first file exercise 1
+New line here middle file.
 Added another line
 And another line
+Another new line here mid file.!
 Added new line inside new branch
 Added another line inside new branch
